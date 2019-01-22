@@ -1,5 +1,5 @@
 pkg_name=ror-native
-pkg_origin=chef-hab
+pkg_origin=ang
 pkg_version="0.1.0"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=("Apache-2.0")
